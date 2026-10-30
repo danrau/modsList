@@ -1,0 +1,60 @@
+{
+  "mods": [
+    {
+      "name": "appleskin-fabric-mc26.3-3.0.10.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "backslot-1.2.2.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "balm-fabric-26.3-26.3.0.3.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "emotecraft-for-MC26.3-3.5.0-a.build.171.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "fabric-api-0.165.0+26.3.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "geckolib-fabric-26.3-5.5.7.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "jegn-1.8.2-hotfix1020+fabric26.3.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "journeymap-fabric-26.3-6.0.10.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "kotlin-2026.29.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "PlayerAnimationLibMerged-1.2.8+mc.26.3.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "shogi-fabric-26.3-26.3.0.3.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "travelersbackpack-fabric-26.3-11.4.1.jar",
+      "url": "https://githubusercontent.com"
+    },
+    {
+      "name": "waystones-fabric-26.3-26.3.0.1.jar",
+      "url": "https://githubusercontent.com"
+    }
+  ]
+}
